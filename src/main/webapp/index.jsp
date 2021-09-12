@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Peter!</h2>
+<h2>Welcome to EC3!</h2>
 </body>
 </html>
